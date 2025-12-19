@@ -98,3 +98,6 @@ Conclusion:
 
 The Multithreaded Chat Application successfully demonstrates how Java can be used to build a reliable and scalable real-time communication system.
 
+#OUTPUT#
+
+<img width="1273" height="176" alt="Image" src="https://github.com/user-attachments/assets/62203c2e-afda-4628-8e10-7d442a70292e" />
